@@ -1,0 +1,159 @@
+{
+
+TStyle * Sty = new TStyle("MyStyle","MyStyle");
+Sty->SetOptTitle(0);
+Sty->SetOptStat(0);
+//Sty->SetPalette(8,0);
+Sty->SetCanvasColor(10);
+Sty->SetCanvasBorderMode(0);
+Sty->SetFrameLineWidth(3);
+Sty->SetFrameFillColor(10);
+Sty->SetPadColor(10);
+Sty->SetPadTickX(1);
+Sty->SetPadTickY(1);
+Sty->SetPadBottomMargin(.16);
+Sty->SetPadLeftMargin(.18);
+Sty->SetPadTopMargin(.05);
+Sty->SetPadRightMargin(.05);
+Sty->SetHistLineWidth(3);
+Sty->SetHistLineColor(kRed);
+Sty->SetFuncWidth(3);
+Sty->SetFuncColor(kGreen);
+Sty->SetLineWidth(3);
+Sty->SetLabelSize(0.06,"xyz");
+Sty->SetLabelOffset(0.02,"y");
+Sty->SetLabelOffset(0.02,"x");
+Sty->SetLabelColor(kBlack,"xyz");
+Sty->SetTitleSize(0.06,"xyz");
+Sty->SetTitleOffset(1.4,"y");
+Sty->SetTitleOffset(1.3,"x");
+Sty->SetTitleFillColor(10);
+Sty->SetTitleTextColor(kBlack);
+Sty->SetTickLength(.02,"xz");
+Sty->SetTickLength(.015,"y");
+Sty->SetNdivisions(5,"xyz");
+Sty->SetEndErrorSize(0);
+gROOT->SetStyle("MyStyle");
+gROOT->ForceStyle();
+
+ TCanvas canvas("level_23P_GSM");
+    double delta = .06;
+  TH2S frame("frame","",10,-.3,1.3,10,-1,4);
+  frame.GetXaxis()->SetLabelSize(0.);
+  frame.GetXaxis()->SetAxisColor(0.);
+  //frame.GetXaxis()->SetTickWidth(0.);
+
+  frame.GetYaxis()->SetTitle("Energy (MeV)");
+  frame.GetYaxis()->CenterTitle();
+  frame.SetStats(kFALSE);
+  
+  frame.Draw();
+  double shift = 0.;
+
+  double xmin23P = -.2+shift;
+  double xmax23P = 0.+shift;
+  double xmin22Si = .1+ shift;
+  double xmax22Si = .3 + shift;
+  double xmin21Al = .4+ shift;
+  double xmax21Al = .6+ shift;
+  double xmin20Mg = .7+shift;
+  double xmax20Mg = .9+shift;
+  double xmin19Na = 1+shift;
+  double xmax19Na = 1.2+shift;
+
+
+
+
+
+
+
+  TLine ll;
+  double E= 1.844;
+  ll.DrawLine(xmin23P,E,xmax23P,E);
+  TBox box43(xmin23P,E-.23/2,xmax23P,E+.23/2);
+  box43.SetFillColor(1);
+  box43.SetFillStyle(3004);
+  box43.Draw("same");
+
+  
+  E+= 2.81;
+  // ll.DrawLine(xmin23P,E,xmax23P,E);
+  TBox box44(xmin23P,E-.735/2,xmax23P,E+.735/2);
+  box44.SetFillColor(1);
+  box44.SetFillStyle(3004);
+  //box44.Draw("same");
+  
+  E = 0.;
+  ll.DrawLine(xmin22Si,0.,xmax22Si,0.);
+  E = 1.766;
+  ll.DrawLine(xmin22Si,E,xmax22Si,E);
+  TBox box23(xmin22Si,E-.388/2,xmax22Si,E+.388/2);
+  box23.SetFillColor(1);
+  box23.SetFillStyle(3004);
+  //box23.Draw("same");
+
+
+  E = 1.088;
+  ll.DrawLine(xmin21Al,E,xmax21Al,E);
+  E = 1.088 + .395;
+  ll.DrawLine(xmin21Al,E,xmax21Al,E);
+  TBox box13(xmin21Al,E-.16/2,xmax21Al,E+.16/2);
+  box13.SetFillColor(1);
+  box13.SetFillStyle(3004);
+  box13.Draw("same");
+
+  E = 1.088 + 1.253;
+  ll.DrawLine(xmin21Al,E,xmax21Al,E);
+
+  E = .014;
+  ll.DrawLine(xmin20Mg,E,xmax20Mg,E);
+
+  E = .014+1.598;
+  ll.DrawLine(xmin20Mg,E,xmax20Mg,E);
+
+  E = .014+2.740;
+  ll.DrawLine(xmin19Na,E,xmax19Na,E);
+
+
+  TLatex tt;
+
+  tt.DrawLatex(.153-.3,1.4,"^{23}P");
+
+  tt.DrawLatex(-.23,1.95,"1/2^{+}");
+
+  tt.DrawLatex(.153,-.37,"#it{p}+^{22}Si");
+  tt.DrawLatex(.079,.186,"0^{+}");
+  tt.DrawLatex(.079,1.92,"2^{+}");
+
+  tt.DrawLatex(.33,1.01,"5/2^{+}");
+  tt.DrawLatex(.37,1.64,"1/2^{+}");
+  tt.DrawLatex(.37,2.53,"3/2^{+}");
+
+  tt.DrawLatex(.89,.173,"0^{+}");
+  tt.DrawLatex(.89,1.72,"2^{+}");
+  tt.DrawLatex(.42,.77,"2#it{p}+^{21}Al");
+  tt.DrawLatex(.72,-.41,"3#it{p}+^{20}Mg");
+  tt.DrawLatex(1.01,2.26,"4#it{p}+^{19}Na");
+
+  tt.SetTextSize(.08);
+  tt.DrawLatex(.38,3.6,"GSM");
+
+  TArrow arrow;
+  arrow.SetFillColor(2);
+  arrow.SetLineColor(2);
+  arrow.SetAngle(30);
+
+  arrow.DrawArrow(xmax22Si-.05,1.766,xmin21Al+.1,1.088);
+  arrow.DrawArrow(xmax21Al,1.088,xmin20Mg+.1,.014);
+  arrow.DrawArrow(xmax21Al,1.088+.395,xmin20Mg+.15,.014);
+  arrow.DrawArrow(xmax21Al,1.088+1.253,xmin20Mg+.15,.014);
+  arrow.DrawArrow(xmax21Al,1.088+1.253,xmin20Mg+.15,.014+1.633);
+  arrow.DrawArrow(xmin20Mg+.17,.014+1.633,xmin20Mg+.17,.014);
+
+  arrow.DrawArrow(xmax23P,1.844,xmin22Si+.06,-.004);
+
+  //arrow.DrawArrow(xmax23P,5.795,xmin22Si+.1,3.199);
+  //arrow.SetLineStyle(2);
+  //arrow.DrawArrow(xmax23P,5.795,xmin22Si+.1,-.004);
+
+}
