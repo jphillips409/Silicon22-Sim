@@ -1,0 +1,8 @@
+frag.cpp:float CFrag::Eloss(float thick)
+frag.cpp:  Eloss(thick);
+frag.cpp~:float CFrag::Eloss(float thick)
+frag.cpp~:  Eloss(thick);
+frag.h:  float Eloss(float); // energy loss in target
+frag.h~:  float Eloss(float); // energy loss in target
+Binary file frag.o matches
+Binary file simlib.a matches
