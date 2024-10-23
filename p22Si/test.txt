@@ -1,0 +1,1482 @@
+energy loss of deuterons on Be  E/A Mev/mg/cm2
+separation between inner edges = 3.41053
+separation between inner edges = 3.16144
+energy loss of deuterons on Be  E/A Mev/mg/cm2
+separation between inner edges = 3.41053
+separation between inner edges = 3.16144
+energy loss of Sulfer in beryllium in units of MeV/A and MeV/(mg/cm2)
+separation between inner edges = 3.41053
+separation between inner edges = 3.16144
+0
+phi = -1.42817
+theta = 0.0209681
+thetaHit = 0.0227809
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -0.233817
+theta = 0.0214792
+thetaHit = 0.0236385
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -0.279453
+theta = 0.0230973
+thetaHit = 0.0217085
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -1.01134
+theta = 0.0225515
+thetaHit = 0.0221823
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -2.37039
+theta = 0.0233744
+thetaHit = 0.0211415
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -0.721484
+theta = 0.0218534
+thetaHit = 0.0219295
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -2.85047
+theta = 0.0226517
+thetaHit = 0.0220276
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -1.2955
+theta = 0.0224375
+thetaHit = 0.0227977
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -0.350314
+theta = 0.0219595
+thetaHit = 0.0219131
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -0.643877
+theta = 0.0215734
+thetaHit = 0.0233133
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -0.837693
+theta = 0.0225091
+thetaHit = 0.0235994
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -0.276248
+theta = 0.0221783
+thetaHit = 0.0208987
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -1.11384
+theta = 0.0234635
+thetaHit = 0.0217176
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -2.51344
+theta = 0.0213707
+thetaHit = 0.0227561
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -1.27346
+theta = 0.0237287
+thetaHit = 0.0232958
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -2.2189
+theta = 0.0222534
+thetaHit = 0.0226444
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -1.13197
+theta = 0.0236129
+thetaHit = 0.022584
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -2.93633
+theta = 0.0216781
+thetaHit = 0.0212194
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -0.504075
+theta = 0.021138
+thetaHit = 0.0231049
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -1.66691
+theta = 0.020854
+thetaHit = 0.0218724
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -1.83938
+theta = 0.0212813
+thetaHit = 0.0222714
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -1.98086
+theta = 0.0231128
+thetaHit = 0.0235943
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -2.41244
+theta = 0.0225964
+thetaHit = 0.0230336
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -3.02398
+theta = 0.0235649
+thetaHit = 0.0237225
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -0.126695
+theta = 0.0237337
+thetaHit = 0.0230947
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -1.01036
+theta = 0.0225409
+thetaHit = 0.0223902
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -0.950275
+theta = 0.0210871
+thetaHit = 0.0212842
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -1.98525
+theta = 0.0212561
+thetaHit = 0.0223639
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -0.591586
+theta = 0.0213568
+thetaHit = 0.0219997
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -2.79333
+theta = 0.0233667
+thetaHit = 0.0210435
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -2.19258
+theta = 0.023499
+thetaHit = 0.0233933
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -1.88858
+theta = 0.0227593
+thetaHit = 0.0226055
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -1.57946
+theta = 0.0236633
+thetaHit = 0.022368
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -0.936311
+theta = 0.0233054
+thetaHit = 0.0234113
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -1.94109
+theta = 0.0211999
+thetaHit = 0.0231418
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -0.765039
+theta = 0.0227646
+thetaHit = 0.0209846
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -0.862259
+theta = 0.0213316
+thetaHit = 0.0215115
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -1.79712
+theta = 0.0212673
+thetaHit = 0.0216948
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -2.75514
+theta = 0.0217221
+thetaHit = 0.0221174
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -2.03906
+theta = 0.0211238
+thetaHit = 0.0216596
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -0.982754
+theta = 0.021965
+thetaHit = 0.0218861
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -2.50031
+theta = 0.0223523
+thetaHit = 0.0220838
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -1.72613
+theta = 0.0224428
+thetaHit = 0.0214959
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -1.83248
+theta = 0.0231823
+thetaHit = 0.0215985
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -2.64693
+theta = 0.0231025
+thetaHit = 0.0209119
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -2.06184
+theta = 0.0209482
+thetaHit = 0.0228543
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -1.86664
+theta = 0.0211097
+thetaHit = 0.022048
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -0.900213
+theta = 0.0237136
+thetaHit = 0.0228692
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -2.49106
+theta = 0.0232901
+thetaHit = 0.0222412
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -1.35129
+theta = 0.0227252
+thetaHit = 0.0217596
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -2.24584
+theta = 0.0229289
+thetaHit = 0.0234574
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -0.148855
+theta = 0.0214209
+thetaHit = 0.022853
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -2.3434
+theta = 0.0220516
+thetaHit = 0.0234624
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -2.69512
+theta = 0.0236985
+thetaHit = 0.0206508
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -0.623379
+theta = 0.021152
+thetaHit = 0.0227738
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -1.1934
+theta = 0.0217796
+thetaHit = 0.0232706
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -0.78093
+theta = 0.0227279
+thetaHit = 0.0216051
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -0.315299
+theta = 0.0222936
+thetaHit = 0.0233548
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -0.404928
+theta = 0.0230197
+thetaHit = 0.0214799
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -0.864747
+theta = 0.0228064
+thetaHit = 0.0214621
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -0.697524
+theta = 0.0214681
+thetaHit = 0.0232687
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -2.05848
+theta = 0.0208826
+thetaHit = 0.023028
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -2.1609
+theta = 0.0229341
+thetaHit = 0.0214328
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -0.656983
+theta = 0.0227672
+thetaHit = 0.0216568
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -1.25648
+theta = 0.0235901
+thetaHit = 0.0211138
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -1.6217
+theta = 0.0230921
+thetaHit = 0.0232371
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -1.81877
+theta = 0.0230405
+thetaHit = 0.0212641
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+3000
+phi = -0.298352
+theta = 0.0237689
+thetaHit = 0.0222294
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -1.50772
+theta = 0.0215485
+thetaHit = 0.0216524
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -0.558482
+theta = 0.0236028
+thetaHit = 0.0233866
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -2.1722
+theta = 0.0215927
+thetaHit = 0.0206807
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -0.881947
+theta = 0.0217961
+thetaHit = 0.0209124
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -3.03714
+theta = 0.0230172
+thetaHit = 0.0229205
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -2.59821
+theta = 0.0236482
+thetaHit = 0.0209749
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -0.0653543
+theta = 0.0206414
+thetaHit = 0.0227128
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -1.78181
+theta = 0.0219025
+thetaHit = 0.0227069
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -2.61466
+theta = 0.021073
+thetaHit = 0.0206904
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -0.226271
+theta = 0.0232209
+thetaHit = 0.0206532
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -0.365617
+theta = 0.0221998
+thetaHit = 0.0217545
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -0.833187
+theta = 0.0211013
+thetaHit = 0.0227594
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -0.465914
+theta = 0.021744
+thetaHit = 0.0223312
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -2.7946
+theta = 0.0217577
+thetaHit = 0.0228713
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -0.193463
+theta = 0.022323
+thetaHit = 0.0232435
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -1.72476
+theta = 0.023537
+thetaHit = 0.0225028
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -2.62971
+theta = 0.0209111
+thetaHit = 0.0220472
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -0.0590526
+theta = 0.0209311
+thetaHit = 0.0229987
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -2.34672
+theta = 0.0217659
+thetaHit = 0.0237339
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -1.27313
+theta = 0.0230068
+thetaHit = 0.0218907
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -0.068561
+theta = 0.0221029
+thetaHit = 0.0209979
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -2.54159
+theta = 0.0213986
+thetaHit = 0.0214053
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -0.701808
+theta = 0.0207652
+thetaHit = 0.022395
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -0.324337
+theta = 0.0217632
+thetaHit = 0.0230481
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+phi_prime = 6.28319
+phi_prime_CsI = 3.14159
+
+
+phi = -0.0901359
+theta = 0.0217906
+thetaHit = 0.022604
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -0.0330861
+theta = 0.0214153
+thetaHit = 0.0231126
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -1.85261
+theta = 0.0230741
+thetaHit = 0.0206918
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -0.112623
+theta = 0.0219324
+thetaHit = 0.0217989
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -1.73805
+theta = 0.0213484
+thetaHit = 0.0236953
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -0.0446028
+theta = 0.021965
+thetaHit = 0.0208536
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -2.53989
+theta = 0.0217961
+thetaHit = 0.0237771
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -0.587296
+theta = 0.0212645
+thetaHit = 0.0237664
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -2.05778
+theta = 0.0232516
+thetaHit = 0.0211426
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -2.3931
+theta = 0.0228247
+thetaHit = 0.0232327
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -2.40557
+theta = 0.0218343
+thetaHit = 0.0218086
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -1.25856
+theta = 0.0233463
+thetaHit = 0.0230383
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -0.797666
+theta = 0.0222374
+thetaHit = 0.0209954
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -1.73781
+theta = 0.0233259
+thetaHit = 0.0222919
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -2.49329
+theta = 0.022843
+thetaHit = 0.022356
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -1.68335
+theta = 0.0216341
+thetaHit = 0.0217879
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -1.47663
+theta = 0.022315
+thetaHit = 0.0212853
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -2.3195
+theta = 0.0208169
+thetaHit = 0.0213215
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -3.13438
+theta = 0.0212813
+thetaHit = 0.0223304
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -0.363498
+theta = 0.0226937
+thetaHit = 0.022768
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -1.75709
+theta = 0.0225118
+thetaHit = 0.0223167
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -1.58915
+theta = 0.0214348
+thetaHit = 0.0219719
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -2.11917
+theta = 0.022796
+thetaHit = 0.0209917
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -0.522327
+theta = 0.0214598
+thetaHit = 0.0231806
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -2.29944
+theta = 0.0208054
+thetaHit = 0.0217143
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -2.81647
+theta = 0.0233207
+thetaHit = 0.0209284
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -0.932713
+theta = 0.0213289
+thetaHit = 0.0236352
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -2.7745
+theta = 0.0230766
+thetaHit = 0.0228281
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -1.76943
+theta = 0.0207049
+thetaHit = 0.0215016
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -1.72218
+theta = 0.0230172
+thetaHit = 0.0231471
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -2.01546
+theta = 0.0226964
+thetaHit = 0.0232
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -1.41281
+theta = 0.0216974
+thetaHit = 0.022089
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -1.55657
+theta = 0.023267
+thetaHit = 0.023325
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -0.00832461
+theta = 0.0236457
+thetaHit = 0.0236891
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -2.05585
+theta = 0.0214348
+thetaHit = 0.0228346
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -0.808639
+theta = 0.0225038
+thetaHit = 0.0216782
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -0.568783
+theta = 0.0210475
+thetaHit = 0.0235247
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -0.497365
+theta = 0.0213121
+thetaHit = 0.0234427
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -2.81044
+theta = 0.0209054
+thetaHit = 0.0231987
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+6000
+phi = -0.717435
+theta = 0.0236633
+thetaHit = 0.0208528
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -1.51755
+theta = 0.020702
+thetaHit = 0.0220062
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -1.91655
+theta = 0.023354
+thetaHit = 0.0221713
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -1.29951
+theta = 0.0227384
+thetaHit = 0.0223011
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -2.41319
+theta = 0.0207939
+thetaHit = 0.0221977
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -0.582218
+theta = 0.0233948
+thetaHit = 0.0207266
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -1.00269
+theta = 0.0231179
+thetaHit = 0.0223553
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -1.85372
+theta = 0.0223896
+thetaHit = 0.0228096
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -0.864414
+theta = 0.0227279
+thetaHit = 0.0237795
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -1.8405
+theta = 0.0225409
+thetaHit = 0.022546
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -2.28231
+theta = 0.0231231
+thetaHit = 0.0237185
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -2.78974
+theta = 0.0227384
+thetaHit = 0.0228071
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -0.641617
+theta = 0.0228717
+thetaHit = 0.0228436
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -2.64826
+theta = 0.0211689
+thetaHit = 0.0229265
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -0.973334
+theta = 0.0221191
+thetaHit = 0.0230916
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -1.58456
+theta = 0.023405
+thetaHit = 0.0217734
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -1.51581
+theta = 0.0214181
+thetaHit = 0.0210019
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -1.67656
+theta = 0.0209794
+thetaHit = 0.021343
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -0.773353
+theta = 0.0229315
+thetaHit = 0.0236792
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -1.0266
+theta = 0.0211718
+thetaHit = 0.0232208
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -2.50251
+theta = 0.020771
+thetaHit = 0.0216928
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -1.55602
+theta = 0.0208997
+thetaHit = 0.0225989
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -2.52723
+theta = 0.0217714
+thetaHit = 0.0223735
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -2.65239
+theta = 0.0222909
+thetaHit = 0.0210952
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -2.37138
+theta = 0.0221191
+thetaHit = 0.0221676
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -3.04962
+theta = 0.0217029
+thetaHit = 0.0228413
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -2.44294
+theta = 0.0220867
+thetaHit = 0.0221004
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -1.18954
+theta = 0.0226464
+thetaHit = 0.0213979
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -0.523136
+theta = 0.0229055
+thetaHit = 0.02135
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+phi_prime = -8.74228e-08
+phi_prime_CsI = 3.14159
+
+
+phi = -2.1128
+theta = 0.0207078
+thetaHit = 0.0224529
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -0.400593
+theta = 0.0231128
+thetaHit = 0.0223926
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -1.90532
+theta = 0.021138
+thetaHit = 0.0217655
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -1.43394
+theta = 0.0211267
+thetaHit = 0.0227214
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -0.785416
+theta = 0.0213624
+thetaHit = 0.0223456
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -0.721869
+theta = 0.0214959
+thetaHit = 0.0229376
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -2.78109
+theta = 0.0207451
+thetaHit = 0.0232797
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -0.983959
+theta = 0.0230766
+thetaHit = 0.0230882
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -1.53696
+theta = 0.021393
+thetaHit = 0.0206592
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -0.852558
+theta = 0.0211041
+thetaHit = 0.0212956
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -2.60185
+theta = 0.0233718
+thetaHit = 0.0215866
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+phi_prime = -8.74228e-08
+phi_prime_CsI = 3.14159
+
+
+phi = -2.33033
+theta = 0.0222588
+thetaHit = 0.0220028
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -1.7478
+theta = 0.0216203
+thetaHit = 0.0227652
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -2.90626
+theta = 0.0213679
+thetaHit = 0.0237736
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -0.309934
+theta = 0.0230715
+thetaHit = 0.0223172
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -0.228693
+theta = 0.023691
+thetaHit = 0.02213
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -0.444899
+theta = 0.0210617
+thetaHit = 0.0230351
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -2.19191
+theta = 0.0225805
+thetaHit = 0.0236274
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -3.11044
+theta = 0.0221998
+thetaHit = 0.0219244
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -0.465848
+theta = 0.0222722
+thetaHit = 0.0236233
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -1.80129
+theta = 0.0227933
+thetaHit = 0.0234418
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -2.12006
+theta = 0.023686
+thetaHit = 0.0214105
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
+
+phi = -0.655403
+theta = 0.0219161
+thetaHit = 0.02278
+# of Rings = 1
+hitRing = 0
+hitCsIstrip = -4
+hitCsIring = 0
